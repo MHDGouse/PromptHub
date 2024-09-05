@@ -1,6 +1,6 @@
-# Project Title
+# PromptHub
 
-A brief description of what this project does and who it's for
+Discover and Share your Prompt
 
 pm run deploy
 ```
